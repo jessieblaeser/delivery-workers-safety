@@ -120,7 +120,7 @@ map2.on("load", function () {
         },
         minzoom: 6,
         paint: {
-          "circle-radius": 3,
+          "circle-radius": 4,
           "circle-color": "#FA8128"
           
         //   "circle-opacity": {
